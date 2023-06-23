@@ -29,8 +29,3 @@ print("Suku : ", tes_qois.suku)
 tes_qois.displayEmployee()
 tes_qois.displayEmployee()
 print("Total Employee %d" % Man_Employee.empCount)
-
-
-        
-    
-        
