@@ -1,0 +1,50 @@
+<collection shelf="New Arrivals">
+	<movie title="Enemy Behind">
+		<type>War, Thriller</type>
+		<format>DVD</format>
+		<year>1995</year>
+		<rating>PG</rating>
+		<start>10</start>
+		<description>Bercerita tentang Perang antara Amerika Serikat dengan Jepang</description>	
+	</movie>
+	<movie title="Transformers">
+		<type>Anime, Science Fiction</type>
+		<format>DVD</format>
+		<year>2001</year>
+		<rating>R</rating>
+		<start>8</start>
+		<description>Film ini menceritakan tentang imaginasi pengetahuan</description>	
+	</movie>
+	<movie title="Trigun">
+		<type>Anime, Action</type>
+		<format>Blue Ray</format>
+		<year>2002</year>
+		<rating>PG</rating>
+		<start>10</start>
+		<description>Film Animasi yang menceritakan peperangan antara Machiel dan Musuhnya</description>	
+	</movie>	
+	<movie title="Isthar">
+		<type>Comedi</type>
+		<format>Blue Ray</format>
+		<year>2002</year>
+		<rating>PGS</rating>
+		<start>15</start>
+		<description>Film yang menceritakan tentang Keunikan seorang Bos yang Bodoh</description>	
+	</movie>
+	<movie title="Kungfu IP MAN The Finals">
+		<type>Action</type>
+		<format>DVD</format>
+		<year>2019</year>
+		<rating>PGS</rating>
+		<start>15</start>
+		<description>Film yang menceritakan tentang Legendaris Kungfu dari Kota Fosan yaitu IP MAN</description>	
+	</movie>
+	<movie title="Who are You 2015">
+		<type>drama</type>
+		<format>DVD</format>
+		<year>2015</year>
+		<rating>PG</rating>
+		<start>10</start>
+		<description>Film yang menceritakan tentang seorang yang kembar siam yang sedang sekolah di menangah atas</description>	
+	</movie>
+</collection>

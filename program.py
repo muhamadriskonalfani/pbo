@@ -4,7 +4,7 @@ import performansi
 
 salary_employee = hr.GajiPegawai(1, 'Filla Kurnia', 15000000)
 hourly_employee = hr.PegawaiJam(2, 'Riskon Silalahi', 40, 15)
-comission_employee = hr.KomisiPegawai(3, 'Heru Santoso', 15000000, 250000)
+comission_employee = hr.KomisiPegawai(3, 'Heru Santoso', 1000000, 250000)
 payroll_system = hr.SistemPenggajian()
 payroll_system.calculate_payroll([
     salary_employee,
